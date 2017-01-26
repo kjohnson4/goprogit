@@ -14,3 +14,5 @@ study <- "STUDY_NUMBER_GOES_HERE"
 allObservations <- getObservations(study, as.data.frame = T)
 summary(allObservations)
 # I like to add comments in programs I do not understand lateda
+# Print Hello World
+print("Hello World")
